@@ -70,7 +70,7 @@ A full-stack hotel booking application with authentication, hotel listings, book
 **Tech Stack:** React • Node.js • Express • MongoDB
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,6 +87,7 @@ A full-stack hotel booking application with authentication, hotel listings, book
 </p>
 
 ---
+-->
 
 ## 🎯 Current Focus
 
