@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **Samarth More**
+# Hi there👋, I'm **Samarth More**
 
 ### 💻 Full Stack Developer | Final Year Information Technology Student
 
@@ -117,4 +117,5 @@ A full-stack hotel booking application with authentication, hotel listings, book
 
 > **"Code. Learn. Build. Repeat."**
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss opportunities.
+⭐ Thanks for visiting my profile! 
+    Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss opportunities.
