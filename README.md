@@ -1,4 +1,4 @@
-# Hi there👋, I'm **Samarth More**
+# Hi👋, I'm **Samarth More**
 
 ### 💻 Full Stack Developer | Final Year Information Technology Student
 
