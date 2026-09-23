@@ -54,7 +54,7 @@ I'm a final-year Information Technology student from **Pune, India**, passionate
 -->
 ## 🚀 Featured Projects
 
-### 🏫 College ERP System  <p align="left">[Live Link](https://edu-erp-sigma.vercel.app/)</p>
+### 🏫 College ERP System       ~[Live Link](https://edu-erp-sigma.vercel.app/)
 
 A fully functional ERP platform for educational institutions featuring authentication, student management, attendance, academics, and administration modules.
 
