@@ -51,9 +51,7 @@ I'm a final-year Information Technology student from **Pune, India**, passionate
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
 </p>
 
---- 
---!>
-
+-->
 ## 🚀 Featured Projects
 
 ### 🏫 College ERP System 
