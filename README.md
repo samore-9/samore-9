@@ -18,7 +18,7 @@ I'm a final-year Information Technology student from **Pune, India**, passionate
 * 🤝 Open to collaborating on exciting projects and open-source contributions
 
 ---
-
+<--
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -51,7 +51,8 @@ I'm a final-year Information Technology student from **Pune, India**, passionate
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
 </p>
 
----
+--- 
+-->
 
 ## 🚀 Featured Projects
 
