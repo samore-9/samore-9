@@ -41,25 +41,6 @@ Java console app applying OOP, Collections and JDBC with a layered architecture.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Strong**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,html,css,git,github,linux,postman" />
-
-**Working Knowledge**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,nginx,postgres,redis,aws,githubactions,vercel,cloudinary" />
-
-**Currently Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=kubernetes,kafka" />
-&nbsp;☁️ Advanced AWS &nbsp;•&nbsp; 🏗️ System Design
-
-**CS Fundamentals:** DSA (Java) • OOP • DBMS • Operating Systems • Computer Networks • SDLC
-
----
-
 ## 🧭 Currently Focused On
 
 - ☁️ Hands-on AWS: EC2, S3, VPC, CloudFront, Route 53, CloudWatch
@@ -71,8 +52,6 @@ Java console app applying OOP, Collections and JDBC with a layered architecture.
 ---
 
 ## 📫 Let's Connect
-
-Recruiters and hiring managers, I'd love to hear from you.
 
 - 📧 **Email:** moresam505@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/samarthmore](https://www.linkedin.com/in/samarthmore/)
