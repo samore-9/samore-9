@@ -1,120 +1,82 @@
-# Hi👋, I'm **Samarth More**
+<h1 align="center">Hi 👋, I'm Samarth More</h1>
 
-### 💻 Full Stack Developer | Final Year Information Technology Student
+<p align="center">
+  <b>Full-Stack Engineer • Cloud & DevOps Enthusiast • Final-Year B.E. IT (CGPA 8.5+)</b><br/>
+  Pune, India 🇮🇳 &nbsp;|&nbsp; Available for <b>Full-Time roles & Internships</b>
+</p>
 
-I'm a final-year Information Technology student from **Pune, India**, passionate about building scalable web applications and solving real-world problems through software. I enjoy turning ideas into functional products while continuously improving my problem-solving and development skills.
-
-🚀 **Actively seeking Software Development Internship and Full-Time Opportunities**
+<p align="center">
+  <a href="mailto:moresam505@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samarthmore/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="./Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🎯 Open To These Roles
 
-* 🎓 Final Year **B.E. Information Technology** Student
-* 💻 Full Stack Developer with hands-on experience in building real-world applications
-* 🌱 Currently strengthening **Data Structures & Algorithms in Java**
-* ⚙️ Exploring **Docker, Kubernetes, and n8n**
-* 📚 Always learning modern technologies and best development practices
-* 🤝 Open to collaborating on exciting projects and open-source contributions
+| Role | What I bring |
+|---|---|
+| 💻 **Software Engineer / SDE** | MERN apps with 20+ REST APIs, JWT auth, RBAC, MVC. DSA in Java (100+ LeetCode problems) |
+| ☁️ **Cloud Engineer** | Deploying on AWS EC2, S3, CloudFront, Route 53, VPC, CloudWatch, EBS. Actively deepening AWS |
+| 🔧 **DevOps Engineer** | Docker, GitHub Actions CI/CD, Nginx, Linux. Learning Kubernetes |
+| 🌐 **Backend / Full-Stack Developer** | Node.js, Express, React, MongoDB, MySQL, PostgreSQL, Redis |
+| 🤖 **Prompt Engineer / AI-Integration Roles** | Building LLM-powered features and writing structured, reliable prompts |
 
 ---
-<!--
-## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode" />
-</p>
-
--->
 ## 🚀 Featured Projects
 
-### 🏫 College ERP System       ~[Live Link](https://edu-erp-sigma.vercel.app/)
+**🏫 [EduERP](https://edu-erp-sigma.vercel.app/): College Management Platform**
+8+ modules, 20+ REST APIs, JWT + role-based access, reusable React components, Dockerized.
+`MERN` `Docker` `JWT` `REST`
 
-A fully functional ERP platform for educational institutions featuring authentication, student management, attendance, academics, and administration modules.
+**🏨 Wanderlust: Travel Accommodation Booking Platform**
+Full-stack listings and reviews platform with owner-only authorization and server-side validation. Deployed on Render with MongoDB Atlas.
+`Node.js` `Express` `MongoDB` `EJS`
 
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-
-### 🏨 Hotel Booking Platform
-
-A full-stack hotel booking application with authentication, hotel listings, booking management, and a responsive user experience.
-
-**Tech Stack:** React • Node.js • Express • MongoDB
-
----
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samore-9&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samore-9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samore-9&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samore-9&theme=tokyo-night"/>
-</p>
-
----
--->
-
-## 🎯 Current Focus
-
-* 🚀 Building production-ready MERN applications
-* 📖 Mastering DSA using Java
-* 🐳 Learning Docker & Kubernetes
-* 🤖 Exploring workflow automation with n8n
-* 💼 Preparing for Software Development Engineer (SDE) roles
+**🏥 Hospital Management System**
+Java console app applying OOP, Collections and JDBC with a layered architecture.
+`Java` `OOP` `JDBC` `MySQL`
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="mailto:samore9565@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://github.com/samore-9"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="https://www.linkedin.com/in/samarthmore/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-</p>
+**Strong**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,html,css,git,github,linux,postman" />
 
-📧 **Email:** [samore9565@gmail.com](mailto:samore9565@gmail.com)
+**Working Knowledge**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,postgres,redis,aws,githubactions,vercel,cloudinary" />
 
-💼 **LinkedIn:** https://www.linkedin.com/in/samarthmore/
+**Currently Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,kafka" />
+&nbsp;☁️ Advanced AWS &nbsp;•&nbsp; 🏗️ System Design
 
-🌐 **Portfolio:** *(Coming Soon)*
+**CS Fundamentals:** DSA (Java) • OOP • DBMS • Operating Systems • Computer Networks • SDLC
 
 ---
 
-> **"Code. Learn. Build. Repeat."**
+## 🧭 Currently Focused On
 
-⭐ Thanks for visiting my profile! 
-    Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss opportunities.
+- ☁️ Hands-on AWS: EC2, S3, VPC, CloudFront, Route 53, CloudWatch
+- 🐳 Containerizing apps and shipping them through CI/CD pipelines
+- 📨 Event-driven systems with Kafka and caching with Redis
+- 🏗️ System design for scalable backends
+- 🧩 Daily DSA practice in Java
+
+---
+
+## 📫 Let's Connect
+
+Recruiters and hiring managers, I'd love to hear from you.
+
+- 📧 **Email:** moresam505@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/samarthmore](https://www.linkedin.com/in/samarthmore/)
+- 📄 **Resume:** [Download here](./Resume.pdf)
+- 📞 **Phone:** +91 7276709565
+
+<p align="center"><i>"Code. Learn. Build. Deploy. Repeat."</i></p>
