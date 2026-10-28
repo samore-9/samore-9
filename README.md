@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth More</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer • Cloud & DevOps Enthusiast • Final-Year B.E. IT (CGPA 8.5+)</b><br/>
+  <b>Full-Stack Engineer • Cloud & DevOps Enthusiast • Final-Year B.E. IT (CGPA 8.54)</b><br/>
   Pune, India 🇮🇳 &nbsp;|&nbsp; Available for <b>Full-Time roles & Internships</b>
 </p>
 
@@ -35,9 +35,8 @@
 Full-stack listings and reviews platform with owner-only authorization and server-side validation. Deployed on Render with MongoDB Atlas.
 `Node.js` `Express` `MongoDB` `EJS`
 
-**🏥 Hospital Management System**
-Java console app applying OOP, Collections and JDBC with a layered architecture.
-`Java` `OOP` `JDBC` `MySQL`
+**🤖 [AI Placement Coach](https://github.com/samore-9/ai-placement-coach): AI Mentor for Campus Placements**
+Full-stack MERN platform with a resume analyzer, ATS scoring, skill-gap analysis, AI career roadmaps and mock interviews. Provider-agnostic AI layer (OpenAI/Gemini switchable via one env var), JWT access + rotating refresh tokens, Google OAuth, RBAC, 17 Mongoose models, and an admin panel.
 
 ---
 
