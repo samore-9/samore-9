@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:moresam505@gmail.com"><img src="https://img.shields.io/badge/Email-moresam505@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/samarthmore/"><img src="https://img.shields.io/badge/LinkedIn-samarthmore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+917276709565"><img src="https://img.shields.io/badge/Call-+91%207276709565-2EA44F?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <a href="./Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="mailto:moresam505@gmail.com">moresam505@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/samarthmore/">LinkedIn</a> |
+  <a href="https://drive.google.com/file/d/1k7w_RGjZZtDG69RzDiHe2c-FFmtITLhF/view?usp=sharing" target="_blank">Resume</a>
 </p>
 
 ---
