@@ -50,11 +50,4 @@ Full-stack MERN platform with a resume analyzer, ATS scoring, skill-gap analysis
 
 ---
 
-## 📫 Let's Connect
-
-- 📧 **Email:** moresam505@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/samarthmore](https://www.linkedin.com/in/samarthmore/)
-- 📄 **Resume:** [Download here](./Resume.pdf)
-- 📞 **Phone:** +91 7276709565
-
 <p align="center"><i>"Code. Learn. Build. Deploy. Repeat."</i></p>
